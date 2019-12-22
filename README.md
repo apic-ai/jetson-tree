@@ -43,7 +43,7 @@ This build guide covers the following aspects:
 * Wooden Christmas tree, ours measures 1 meter
 * Other small items of equipment (screws, terminal blocks, ...)
 
-You placed a more [detailed BOM](resources/hardware/BOM.md) into the resources of this repository.
+We placed a more [detailed BOM](resources/hardware/BOM.md) into the resources of this repository.
 
 #### Building the Jetson Tree
 
